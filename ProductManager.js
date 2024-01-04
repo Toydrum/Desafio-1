@@ -44,6 +44,6 @@ producto1 = {
 };
 
 productManager1.addProduct(producto1)
+//productManager1.addProduct(producto1)
 console.log(productManager1.products);
 productManager1.getProductById(0)
-/* productManager1.addProduct(producto1) */
